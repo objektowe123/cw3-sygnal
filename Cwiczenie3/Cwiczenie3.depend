@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509312469 source:c:\users\wojci\desktop\programowanie obiektowe\cwiczenie3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
